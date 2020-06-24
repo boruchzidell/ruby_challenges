@@ -1,3 +1,3 @@
 # Ruby Challenges
 
-[LS Ruby Challenges](https://launchschool.com/exercises#ruby_challenges)
+Solutions to the [LS Ruby Challenges](https://launchschool.com/exercises#ruby_challenges)
